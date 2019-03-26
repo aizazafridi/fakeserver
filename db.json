@@ -7,4 +7,12 @@
       "Hobby": "Cricket"
     }
   
+  "user":
+  {
+    "Id": 2,
+    "Name": "Sarwar",
+    "Status": "Offline",
+    "Hobby": "Football"
+  }
+  
 }
