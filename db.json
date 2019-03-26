@@ -5,14 +5,14 @@
       "Name": "Aizaz",
       "Status": "Online",
       "Hobby": "Cricket"
+    },
+    {
+      "Id": 2,
+      "Name": "Sarwar",
+      "Status": "Offline",
+      "Hobby": "Football"
     }
   
-  "user":
-  {
-    "Id": 2,
-    "Name": "Sarwar",
-    "Status": "Offline",
-    "Hobby": "Football"
-  }
+
   
 }
