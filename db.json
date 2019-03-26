@@ -1,4 +1,5 @@
-[
+{
+  "posts':[
   {
     "id": 1,
     "Name": "Aizaz",
@@ -12,5 +13,5 @@
     "Gender": "Male",
     "Role": "Admin",
     "Status":"Offline"
-  }
-]
+  }]
+}
