@@ -1,4 +1,4 @@
-{
+[
   "user": 
     {
       "Id": 1,
@@ -12,7 +12,4 @@
       "Status": "Offline",
       "Hobby": "Football"
     }
-  
-
-  
-}
+ ]
