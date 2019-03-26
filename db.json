@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "hello"
+      "Id": 1,
+      "Name": "Aizaz",
+      "Status": "Online",
+      "Hobby": "Cricket"
     }
   ],
   "profile": {
