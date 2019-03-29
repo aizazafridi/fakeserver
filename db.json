@@ -9,6 +9,13 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "typicode"}
+  },
+  
+  "users": [
+    {"id":"USLACKBOT", "team_id":"TH13QD1NK", "name":"slackbot"},
+    {"id":"UH00KA91S", "team_id":"TH13QD1NK", "name":"aizooafridi"},
+    {"id":"UH4LQ8FHV", "team_id":"TH13QD1NK", "name":"googledrive"},
+    {"id":"UH6DNPPLM", "team_id":"TH13QD1NK", "name":"aizoo89"},
+    ]
 }
