@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": "USLACKBOT", "team_id": "TH13QD1NK", "name":"slackbot"},
-    { "id": "UH00KA91S", "team_id": "TH13QD1NK", "name":"aizooafridi"},
-    { "id": "UH4LQ8FHV", "team_id": "TH13QD1NK", "name":"googledrive"},
-    { "id": "UH6DNPPLM", "team_id": "TH13QD1NK", "name":"aizoo89"}	  
+    { "id": "USLACKBOT"},
+    { "id": "UH00KA91S"},
+    { "id": "UH4LQ8FHV"},
+    { "id": "UH6DNPPLM"}	  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
