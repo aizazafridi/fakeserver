@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "USLACKBOT"},
-    { "UH00KA91S"},
-    { "UH4LQ8FHV"},
-    { "UH6DNPPLM"}	  
+    { "id": "USLACKBOT"},
+    { "id": "UH00KA91S"},
+    { "id": "UH4LQ8FHV"},
+    { "id": "UH6DNPPLM"}	  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
